@@ -1,0 +1,123 @@
+a { text-decoration: none; color: black;}
+a:visited { text-decoration: none; color: black;}
+a:hover { text-decoration: none; color: black;}
+a:focus { text-decoration: none; color: black;}
+a:hover, a:active { text-decoration: none; color: black;}
+
+nav {
+    font-family: 'Cousine', monospace;
+    text-align: left;
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+.happening {
+    font-family: 'Cousine', monospace;
+    width: 500px;
+    padding-top: 20px;
+}
+
+.welcome span{
+    background-color: #97c7f1;
+    font-family: 'Cousine', monospace;
+}
+
+.welcome {
+    margin-top: 50px;
+}
+
+#bio-nav:hover{
+    background-color: yellow;
+}
+
+.on-bio {
+    background-color: yellow;
+}
+
+#ed-nav:hover {
+    background-color: pink;
+}
+
+.on-resume{
+    background-color: pink;
+}
+
+.image {
+  padding-left: 75px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+.image-new {
+  padding-left: 163px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+h1 {
+  font-family: 'Cousine', monospace;
+  font-size: 22px;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: left;
+  letter-spacing: 0.5em;
+}
+
+.page-header {
+  font-family: 'Cousine', monospace;
+  padding-top: 20px;
+  padding-left: 185px;
+    letter-spacing: 0.25em;
+}
+
+p {
+  font-family: 'Cousine', monospace;
+  padding-left: 185px;
+  text-align: left;
+  width: 1000px;
+}
+
+.resume-header {
+  font-family: 'Cousine', monospace;
+  padding-left: 185px;
+  color: #6495ed;
+}
+
+.date-header {
+    font-family: 'Cousine', monospace;
+    font-size: 12.5px;
+}
+
+.resume-list {
+    font-family: 'Cousine', monospace;
+    padding-left: 200px;
+    text-align: left;
+    width: 1000px;
+}
+
+.footer span {
+  background-color: #D3D3D3;
+  color: black;
+  text-align: right;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3%;
+  position: fixed;
+}
+
+.footer {
+  padding-top: 15px;
+}
